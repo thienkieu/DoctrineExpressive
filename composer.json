@@ -9,12 +9,16 @@
         }
     ],
 	
-    "require": {},
+    "require": {
+		"php": "^7.1"
+	},
+	"require-dev": {        
+    },
 	"autoload": {
         "psr-4": {
             "DoctrineExpresive\\": "src/"
         }
     },
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
     "prefer-stable": true
 }
