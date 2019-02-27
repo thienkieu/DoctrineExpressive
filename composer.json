@@ -1,7 +1,6 @@
 {
     "name": "thien.kieu/zend-expressive-doctrine",
     "description": "this allow to load doctrine orm into zend expressive",
-    "type": "library",
     "authors": [
         {
             "name": "thien1988",
@@ -20,5 +19,5 @@
         }
     },
 	"minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true	
 }
