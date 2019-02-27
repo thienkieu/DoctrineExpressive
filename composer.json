@@ -1,0 +1,17 @@
+{
+    "name": "thien.kieu/zend-expressive-doctrine",
+    "description": "this allow to load doctrine orm into zend expressive",
+    "type": "library",
+    "authors": [
+        {
+            "name": "thien1988",
+            "email": "thien1988@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "DoctrineExpresive\\": "src/"
+        }
+    }
+}
