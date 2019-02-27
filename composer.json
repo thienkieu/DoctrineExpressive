@@ -1,8 +1,8 @@
 {
     "name": "thien.kieu/zend-expressive-doctrine",
     "description": "this allow to load doctrine orm into zend expressive",
-	"type": "library",
-    "license": "GPL-3.0",
+	"license": "GPL-3.0",
+	"version": "1.0",
     "authors": [
         {
             "name": "thien1988",
@@ -13,8 +13,6 @@
     "require": {
 		"php": "^7.1"
 	},
-	"require-dev": {        
-    },
 	
 	"autoload": {
         "psr-4": {
